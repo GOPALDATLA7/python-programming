@@ -1,0 +1,5 @@
+//Printing hello world in python
+print("Hello World")
+    //or 
+A = "Hello World";
+print(A)
