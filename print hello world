@@ -1,5 +1,5 @@
-//Printing hello world in python
+#Printing hello world in python
 print("Hello World")
-    //or 
+#or 
 A = "Hello World";
 print(A)
