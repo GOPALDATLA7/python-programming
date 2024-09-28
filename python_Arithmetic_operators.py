@@ -10,6 +10,7 @@ print("Modulus of two numbers : ",num1%num2)
 print("Exponentitaion of two numbers : ",num1**num2)
 print("Floor division of two numbers : ",num1//num2)
 
+"""
 output:
 Enter num1 value : 5
 Enter num2 value : 3
@@ -20,3 +21,4 @@ Division of two numbers :  1.6666666666666667
 Modulus of two numbers :  2
 Exponentitaion of two numbers :  125
 Floor division of two numbers :  1
+"""
