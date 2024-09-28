@@ -10,6 +10,7 @@ print("Less than : ",num1<num2)
 print("Greater than or equal to : ",num1>=num2)
 print("Less than or equal to : ",num1<=num2)
 
+"""
 output:
 Enter num1 value : 10
 Enter num2 value : 20
@@ -19,3 +20,4 @@ Greater than :  False                  #since num1 is not greater than num2 so g
 Less than :  True                      #since num1 is less than num2 so lessthan condition True so it returns True
 Greater than or equal to :  False      #since num1 is not greater than or equal to num2 so greater than or equal condition fails so it returns False
 Less than or equal to :  True          #since num1 is less than or equal to num2 so less than or equal condition is true so it returns True
+"""
